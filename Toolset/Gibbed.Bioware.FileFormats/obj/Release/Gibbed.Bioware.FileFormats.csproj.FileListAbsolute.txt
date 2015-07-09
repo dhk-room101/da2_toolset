@@ -1,0 +1,3 @@
+d:\Work\R\DA2\toolset\Gibbed.Bioware.FileFormats.dll
+d:\Work\VS13\Toolset\Gibbed.Bioware.FileFormats\obj\Release\Gibbed.Bioware.FileFormats.csprojResolveAssemblyReference.cache
+d:\Work\VS13\Toolset\Gibbed.Bioware.FileFormats\obj\Release\Gibbed.Bioware.FileFormats.dll

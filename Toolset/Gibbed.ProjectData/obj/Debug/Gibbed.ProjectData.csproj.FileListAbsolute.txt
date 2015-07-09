@@ -1,0 +1,5 @@
+D:\Work\R\DA2\toolset\Gibbed.ProjectData.dll
+D:\Work\R\DA2\toolset\Gibbed.ProjectData.pdb
+D:\Work\VS13\Toolset\Gibbed.ProjectData\obj\Debug\Gibbed.ProjectData.dll
+D:\Work\VS13\Toolset\Gibbed.ProjectData\obj\Debug\Gibbed.ProjectData.pdb
+d:\Work\VS13\Toolset\Gibbed.ProjectData\obj\Debug\Gibbed.ProjectData.csprojResolveAssemblyReference.cache

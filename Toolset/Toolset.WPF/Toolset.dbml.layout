@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Toolset">
+  <DataContextMoniker Name="/ToolsetDataContext" />
+  <nestedChildShapes>
+    <classShape Id="92eca47f-c4f7-45c3-9a20-77523c074324" absoluteBounds="0.5, 0.5, 2, 1.9631982421875">
+      <DataClassMoniker Name="/ToolsetDataContext/t_HashesTable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="91f2f62c-1946-43b2-a908-8fea7d0001d9" absoluteBounds="0.515, 0.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2418e6c6-bec2-486c-ac6d-9a8030a1ded4" absoluteBounds="5.5, 0.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/ToolsetDataContext/t_PlotsTable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0fdaf788-d6ca-446c-9130-31d88281118a" absoluteBounds="5.515, 0.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="515d7cc0-f1cb-47ed-983a-f819fe5800f9" absoluteBounds="5.5, 1.875, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/ToolsetDataContext/t_TalkTable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5e25611b-1c7c-427e-b3e2-b08928e3e815" absoluteBounds="5.515, 2.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0044428f-ef86-4833-9ee5-e80bdd065460" absoluteBounds="2.75, 1.375, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/ToolsetDataContext/t_ModulesTable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b9269111-2e43-4107-a14c-cc44ea1565bc" absoluteBounds="2.765, 1.835, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2f15bc86-a219-4a2b-a55e-c62b97a0b334" absoluteBounds="0.75, 2.625, 2, 1.3862939453125">
+      <DataClassMoniker Name="/ToolsetDataContext/t_ResourcePathTable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="91ec4d3d-ff6f-4306-9207-7505fb1f671e" absoluteBounds="0.765, 3.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

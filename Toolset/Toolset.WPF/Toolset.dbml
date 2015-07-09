@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="da2_content" Class="ToolsetDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\DA2TOOLSET;Initial Catalog=da2_content;Integrated Security=True" SettingsObjectName="Toolset.WPF.Properties.Settings" SettingsPropertyName="da2_contentConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.t_HashesTable" Member="t_HashesTables">
+    <Type Name="t_HashesTable">
+      <Column Name="FullName" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="FileType" Type="System.String" DbType="VarChar(64)" CanBeNull="true" />
+      <Column Name="NameHash" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="TypeHash" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Parent" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Project" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.t_PlotsTable" Member="t_PlotsTables">
+    <Type Name="t_PlotsTable">
+      <Column Name="Name" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="UUID" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.t_TalkTable" Member="t_TalkTables">
+    <Type Name="t_TalkTable">
+      <Column Name="ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="String" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Project" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="LanguageID" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="IsPatch" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.t_ModulesTable" Member="t_ModulesTables">
+    <Type Name="t_ModulesTable">
+      <Column Name="ModuleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DisplayName" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="UUID" Type="System.String" DbType="VarChar(MAX)" IsPrimaryKey="true" CanBeNull="true" />
+      <Column Name="LanguageID" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Details" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="ProjectType" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="IsActive" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.t_ResourcePathTable" Member="t_ResourcePathTables">
+    <Type Name="t_ResourcePathTable">
+      <Column Name="FullRelativePath" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="ResourceName" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="IsOverride" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

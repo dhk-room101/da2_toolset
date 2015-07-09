@@ -1,0 +1,5 @@
+D:\Work\R\DA2\toolset\Gibbed.IO.dll
+D:\Work\R\DA2\toolset\Gibbed.IO.pdb
+D:\Work\VS13\Toolset\Gibbed.IO\obj\Debug\Gibbed.IO.dll
+D:\Work\VS13\Toolset\Gibbed.IO\obj\Debug\Gibbed.IO.pdb
+d:\Work\VS13\Toolset\Gibbed.IO\obj\Debug\Gibbed.IO.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+Room101 Update May 2015: this is a modified version, in the sense of some new classes being added, the original files were not altered. 
+the added classes are format types, i.e.: CONV, PLOT etc.
+OldGenericFileFormat folder and OldGenericFile.cs were removed
+
